@@ -11,5 +11,6 @@ scikit-learn
 scipy
 seaborn
 tensorflow
+nbmake
 rise
 jupyter-contrib-nbextensions
